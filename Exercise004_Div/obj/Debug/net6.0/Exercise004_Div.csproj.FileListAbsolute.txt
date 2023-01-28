@@ -1,0 +1,15 @@
+C:\Users\79632\Desktop\Lecture_1\Exercise004_Div\bin\Debug\net6.0\Exercise004_Div.exe
+C:\Users\79632\Desktop\Lecture_1\Exercise004_Div\bin\Debug\net6.0\Exercise004_Div.deps.json
+C:\Users\79632\Desktop\Lecture_1\Exercise004_Div\bin\Debug\net6.0\Exercise004_Div.runtimeconfig.json
+C:\Users\79632\Desktop\Lecture_1\Exercise004_Div\bin\Debug\net6.0\Exercise004_Div.dll
+C:\Users\79632\Desktop\Lecture_1\Exercise004_Div\bin\Debug\net6.0\Exercise004_Div.pdb
+C:\Users\79632\Desktop\Lecture_1\Exercise004_Div\obj\Debug\net6.0\Exercise004_Div.csproj.AssemblyReference.cache
+C:\Users\79632\Desktop\Lecture_1\Exercise004_Div\obj\Debug\net6.0\Exercise004_Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79632\Desktop\Lecture_1\Exercise004_Div\obj\Debug\net6.0\Exercise004_Div.AssemblyInfoInputs.cache
+C:\Users\79632\Desktop\Lecture_1\Exercise004_Div\obj\Debug\net6.0\Exercise004_Div.AssemblyInfo.cs
+C:\Users\79632\Desktop\Lecture_1\Exercise004_Div\obj\Debug\net6.0\Exercise004_Div.csproj.CoreCompileInputs.cache
+C:\Users\79632\Desktop\Lecture_1\Exercise004_Div\obj\Debug\net6.0\Exercise004_Div.dll
+C:\Users\79632\Desktop\Lecture_1\Exercise004_Div\obj\Debug\net6.0\refint\Exercise004_Div.dll
+C:\Users\79632\Desktop\Lecture_1\Exercise004_Div\obj\Debug\net6.0\Exercise004_Div.pdb
+C:\Users\79632\Desktop\Lecture_1\Exercise004_Div\obj\Debug\net6.0\Exercise004_Div.genruntimeconfig.cache
+C:\Users\79632\Desktop\Lecture_1\Exercise004_Div\obj\Debug\net6.0\ref\Exercise004_Div.dll
