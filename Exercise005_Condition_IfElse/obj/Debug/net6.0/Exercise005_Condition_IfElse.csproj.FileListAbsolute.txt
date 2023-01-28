@@ -1,0 +1,15 @@
+C:\Users\79632\Desktop\Lecture_1\Exercise005_Condition_IfElse\bin\Debug\net6.0\Exercise005_Condition_IfElse.exe
+C:\Users\79632\Desktop\Lecture_1\Exercise005_Condition_IfElse\bin\Debug\net6.0\Exercise005_Condition_IfElse.deps.json
+C:\Users\79632\Desktop\Lecture_1\Exercise005_Condition_IfElse\bin\Debug\net6.0\Exercise005_Condition_IfElse.runtimeconfig.json
+C:\Users\79632\Desktop\Lecture_1\Exercise005_Condition_IfElse\bin\Debug\net6.0\Exercise005_Condition_IfElse.dll
+C:\Users\79632\Desktop\Lecture_1\Exercise005_Condition_IfElse\bin\Debug\net6.0\Exercise005_Condition_IfElse.pdb
+C:\Users\79632\Desktop\Lecture_1\Exercise005_Condition_IfElse\obj\Debug\net6.0\Exercise005_Condition_IfElse.csproj.AssemblyReference.cache
+C:\Users\79632\Desktop\Lecture_1\Exercise005_Condition_IfElse\obj\Debug\net6.0\Exercise005_Condition_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79632\Desktop\Lecture_1\Exercise005_Condition_IfElse\obj\Debug\net6.0\Exercise005_Condition_IfElse.AssemblyInfoInputs.cache
+C:\Users\79632\Desktop\Lecture_1\Exercise005_Condition_IfElse\obj\Debug\net6.0\Exercise005_Condition_IfElse.AssemblyInfo.cs
+C:\Users\79632\Desktop\Lecture_1\Exercise005_Condition_IfElse\obj\Debug\net6.0\Exercise005_Condition_IfElse.csproj.CoreCompileInputs.cache
+C:\Users\79632\Desktop\Lecture_1\Exercise005_Condition_IfElse\obj\Debug\net6.0\Exercise005_Condition_IfElse.dll
+C:\Users\79632\Desktop\Lecture_1\Exercise005_Condition_IfElse\obj\Debug\net6.0\refint\Exercise005_Condition_IfElse.dll
+C:\Users\79632\Desktop\Lecture_1\Exercise005_Condition_IfElse\obj\Debug\net6.0\Exercise005_Condition_IfElse.pdb
+C:\Users\79632\Desktop\Lecture_1\Exercise005_Condition_IfElse\obj\Debug\net6.0\Exercise005_Condition_IfElse.genruntimeconfig.cache
+C:\Users\79632\Desktop\Lecture_1\Exercise005_Condition_IfElse\obj\Debug\net6.0\ref\Exercise005_Condition_IfElse.dll
